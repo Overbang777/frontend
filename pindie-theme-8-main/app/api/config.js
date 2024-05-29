@@ -1,4 +1,4 @@
-export const BASE_URL = "overbang7777.nomorepartiesco.ru";
+export const BASE_URL = "https://overbang7777.nomorepartiesco.ru";
 export const endpoints = {
   games: `${BASE_URL}/games`,
   auth: `${BASE_URL}/auth/login`,
